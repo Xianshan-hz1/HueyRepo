@@ -21,9 +21,9 @@ C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\stati
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\Hy_Project.dll
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\refint\Hy_Project.dll
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\Hy_Project.pdb
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\Hy_Project.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\ref\Hy_Project.dll
+C:\Users\Administrator\Desktop\apps\Hy_Project\Hy_Project\obj\Debug\net8.0\Hy_Project.sourcelink.json
